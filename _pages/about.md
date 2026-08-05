@@ -6,7 +6,7 @@ subtitle: Data Scientist · AI/ML Practitioner · AI Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false
   more_info: >
     <p>Accra, Ghana</p>
@@ -29,6 +29,34 @@ latest_posts:
 My name is **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a Data Scientist and AI Researcher with a strong focus on statistical modelling, machine learning, applied artificial intelligence, and the development of responsible and practical AI systems. My work is driven by an interest in using data and AI to improve decision-making and solve real-world business, climate, and societal challenges.
 
 I have nearly three years of experience applying data science and machine learning within the financial sector. My work includes predictive analytics, intelligent automation, conversational AI, and agentic AI systems. I recently graduated from **Academic City University in Ghana with an MSc in Data Science and Analytics**, earning First Class honours.
+<div class="row">
+  <div class="col-sm-4 mt-3">
+    <img
+      src="{{ '/assets/img/graduation-1.jpeg' | relative_url }}"
+      alt="Graduation ceremony at Academic City University"
+      class="img-fluid rounded"
+    >
+    <p class="caption">MSc graduation at Academic City University</p>
+  </div>
+
+  <div class="col-sm-4 mt-3">
+    <img
+      src="{{ '/assets/img/best-student-award.jpeg' | relative_url }}"
+      alt="Best Student in Computational Science and Informatics Award"
+      class="img-fluid rounded"
+    >
+    <p class="caption">Best Student in Computational Science and Informatics Award</p>
+  </div>
+
+  <div class="col-sm-4 mt-3">
+    <img
+      src="{{ '/assets/img/special-award.jpeg' | relative_url }}"
+      alt="Academic City University special award"
+      class="img-fluid rounded"
+    >
+    <p class="caption">Special award for leadership, innovation, integrity, and excellence</p>
+  </div>
+</div>
 
 I currently work as an **Engagement Analyst at Autochek Africa** and as a part-time **AI Researcher at Youth in AI in Accra, Ghana**. At Autochek Africa, I contribute to the development of data-driven and AI-powered solutions that support customer engagement, operational efficiency, and vehicle financing.
 
