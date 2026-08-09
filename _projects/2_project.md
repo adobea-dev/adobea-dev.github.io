@@ -1,81 +1,79 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: National Flood Command Center (NFCC) – CiviSenti
+description: A community-driven flood intelligence system that combines WhatsApp reporting, rainfall and risk data, and AI-assisted validation for flood monitoring in Ghana.
 importance: 2
-category: work
-giscus_comments: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The **National Flood Command Center (NFCC)** is an AI-powered flood early-warning and intelligence platform designed to support flood monitoring and climate resilience in Ghana.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As part of the NFCC engineering team, I worked on **CiviSenti**, a community flood-reporting system that enables people to report flooding through WhatsApp and transforms those reports into structured information that can support flood monitoring and emergency decision-making.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## My Contribution
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I designed and implemented the **CiviSenti WhatsApp Community Flood Reporting MVP**.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The system processes incoming community flood reports and extracts useful information including:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Reporter information
+- Flood location
+- GPS latitude and longitude
+- Description of the flooding
+- Photo and media metadata
+- Estimated flood severity
 
-{% raw %}
+I developed the processing pipeline used to validate, structure, store, and summarize these community reports.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The system also checks reports against available NFCC rainfall and flood-risk data, providing an additional layer of validation before reports are surfaced for administrative review.
 
-{% endraw %}
+## CiviSenti Reporting Flow
+
+1. A community member submits a flood report through WhatsApp.
+2. The WhatsApp payload is received by the CiviSenti bot.
+3. Relevant information is extracted and converted into a structured flood report.
+4. The report is validated for completeness and quality.
+5. Available rainfall and flood-risk data are used to support validation.
+6. Validated reports are stored for analysis and monitoring.
+7. Reports are displayed on the NFCC dashboard for review.
+
+## Dashboard Integration
+
+I integrated CiviSenti reports into the NFCC administrative dashboard, allowing the team to monitor:
+
+- Total community flood reports
+- Validated reports
+- Reports supported by rainfall/risk evidence
+- Flood severity distributions
+- Locations and timestamps of reported flooding
+
+This creates a bridge between **community observations and data-driven flood intelligence**.
+
+## Engineering & MLOps
+
+Beyond the reporting pipeline, I also contributed to the engineering infrastructure supporting the platform.
+
+My work included:
+
+- Building automated validation workflows with GitHub Actions
+- Developing and fixing pytest fixtures for the NFCC data pipeline
+- Resolving CI/testing issues
+- Documenting the CiviSenti setup and testing process
+- Supporting the local WSL/Ubuntu development environment
+- Integrating the feature with the existing NFCC codebase
+
+## Impact
+
+Flood-monitoring systems often depend primarily on centralized sensor or satellite data. CiviSenti introduces a human-centered layer by allowing communities experiencing flooding to contribute real-time observations using WhatsApp, a platform already widely accessible to users.
+
+The project reflects my interest in building **responsible, accessible, and practical AI systems for climate resilience and societal impact in Africa**.
+
+## Technologies
+
+Python · WhatsApp Integration · Twilio · Streamlit · GitHub Actions · Pytest · Data Validation · Applied AI · Climate Technology · CI/CD
+
+## Repository
+
+[View the NFCC Platform on GitHub](https://github.com/NFCC-Ghana/nfcc-platform)
