@@ -28,7 +28,7 @@ latest_posts:
 
 I am **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a **Data Scientist and AI Researcher** focused on statistical modelling, machine learning, agentic AI, responsible AI, and AI strategy. I build practical AI systems and translate complex business and societal problems into data-driven solutions across **financial services, analytics, and climate resilience**.
 
-I have nearly three years of experience applying data science, analytics, and machine learning within the financial sector. I currently work as an **Engagement Analyst at Autochek Africa** and as a part-time **AI Researcher at Youth in AI, Accra, Ghana**. My work spans predictive analytics, conversational AI, intelligent automation, AI agents, and decision-support systems.
+I have 3+ years of experience applying data science, analytics, and machine learning within the financial sector. I currently work as an **Engagement Analyst at Autochek Africa** and as a part-time **AI Researcher at Youth in AI, Accra, Ghana**. My work spans predictive analytics, conversational AI, intelligent automation, AI agents, and decision-support systems.
 
 I am particularly interested in the intersection of **AI, business strategy, and decision-making**. Beyond building models and AI systems, I am interested in helping organizations identify valuable opportunities for AI, determine where AI can create measurable impact, translate business needs into technical solutions, and adopt AI responsibly.
 
