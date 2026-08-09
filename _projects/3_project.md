@@ -1,81 +1,93 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: Loan Intake & Financing Recommendation Agent
+description: An intelligent agent designed to streamline vehicle-financing applications, automate customer intake, and support financing-product recommendations.
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The **Loan Intake & Financing Recommendation Agent** is an AI-powered solution developed as part of my work at **Autochek Africa**.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project was designed to improve the vehicle-financing application process by combining **conversational AI, workflow automation, predictive analytics, and data-driven recommendation capabilities**.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The system helps collect relevant information from prospective customers, structure loan-application data, and support the identification of suitable financing options based on available customer and product information.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Problem
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Vehicle-financing applications can involve several manual steps, including collecting customer information, understanding financing requirements, reviewing eligibility-related information, and identifying appropriate financing products.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+These processes can become time-consuming for both customers and operational teams.
 
-{% raw %}
+The project explored how an intelligent agent could automate parts of this workflow while maintaining a more natural interaction with users.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## My Contribution
 
-{% endraw %}
+I contributed to the design and development of the agent and the analytical workflows that support the financing process.
+
+My work focused on areas including:
+
+- Conversational loan intake
+- Automated collection of customer information
+- Structuring application data
+- Workflow automation
+- Predictive analytics
+- Financing-product recommendations
+- Customer engagement
+- Data-driven decision support
+
+## Conversational Loan Intake
+
+The agent provides a conversational interface through which customers can provide relevant information for a financing application.
+
+Instead of relying entirely on static forms or repeated manual interactions, the system guides users through the information-collection process and converts their responses into structured application data.
+
+This creates a more accessible and efficient intake experience while supporting downstream analytical workflows.
+
+## Predictive Analytics
+
+A key component of the project involves the use of **predictive analytics** to support financing decisions and product recommendations.
+
+The analytical component helps identify patterns in customer and financing information that can be used to support the recommendation of suitable Autochek financing products to customers and partners.
+
+The goal is not simply to automate data collection, but to use data to improve the relevance and efficiency of the financing journey.
+
+## Agentic Workflow
+
+The system brings together multiple capabilities within a single workflow.
+
+A typical interaction can involve:
+
+1. Receiving a financing request from a customer.
+2. Collecting the required information conversationally.
+3. Structuring and validating the supplied information.
+4. Passing relevant information into analytical or decision-support processes.
+5. Identifying appropriate financing options.
+6. Providing information that can support the next stage of the financing process.
+
+This approach demonstrates how conversational and agentic AI can be integrated with traditional data-science workflows.
+
+## Business Impact
+
+The project was designed to support:
+
+- Faster customer onboarding
+- More efficient loan-intake workflows
+- Reduced repetitive manual work
+- Improved consistency in data collection
+- More relevant financing-product recommendations
+- Better use of customer and operational data
+- Improved customer engagement
+
+The project reflects my interest in building AI systems that move beyond experimentation and are integrated into practical business processes.
+
+## Responsible AI
+
+Because financing is a high-impact domain, I am particularly interested in ensuring that AI-supported systems are designed with considerations around **fairness, transparency, reliability, data quality, and responsible decision-making**.
+
+This project strengthened my interest in developing AI systems that support human decision-making rather than treating automation as an end in itself.
+
+## Technologies
+
+Python · Machine Learning · Predictive Analytics · Conversational AI · Agentic AI · Workflow Automation · Data Analytics
