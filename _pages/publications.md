@@ -22,8 +22,10 @@ The **Dealer AI Copilot** enables users to interact with dealer performance, sal
 - MSc in Data Science and Analytics — First Class Honours  
 - Best Computational Science and Informatics Student Award
 
-[View project details](/projects/)
+### Presentation Materials
 
+- [View Research Poster]({{ '/assets/pdf/AI Copilot poster presentation.pdf' | relative_url }})
+- [View Slide Presentation]({{ '/assets/pdf/AI Copilot slide presentation.pptx' | relative_url }})
 ---
 
 ## Applied Research
