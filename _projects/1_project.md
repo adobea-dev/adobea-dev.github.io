@@ -73,3 +73,9 @@ The project demonstrates how agentic AI can potentially transform the way organi
 ## Technologies
 
 Python · Agentic AI · Large Language Models · Natural Language Processing · Data Analytics · Statistical Modelling · Machine Learning · Conversational AI
+
+## Project Evidence
+
+- [View Source Code](https://github.com/adobea-dev/Analytics-ai-copilot)
+- [View Research Poster]({{ '/assets/pdf/AI Copilot poster presentation.pdf' | relative_url }})
+- [View Slide Presentation]({{ '/assets/pdf/AI Copilot slide presentation.pptx' | relative_url }})
