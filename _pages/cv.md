@@ -4,9 +4,12 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+
+cv_pdf: /assets/pdf/regina-adobea-essien-cv.pdf
+cv_format: rendercv
+
+description: Data Scientist and AI Researcher building practical, responsible AI systems across financial services, analytics, and climate resilience, with interests in AI strategy and consulting.
+
 toc:
   sidebar: left
 ---
