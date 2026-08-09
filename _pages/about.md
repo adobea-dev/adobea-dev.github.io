@@ -26,9 +26,13 @@ latest_posts:
   limit: 3
 ---
 
-My name is **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a Data Scientist and AI Researcher with a strong focus on statistical modelling, machine learning, applied artificial intelligence, and the development of responsible and practical AI systems. My work is driven by an interest in using data and AI to improve decision-making and solve real-world business, climate, and societal challenges.
+I am **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a **Data Scientist and AI Researcher** focused on statistical modelling, machine learning, agentic AI, responsible AI, and AI strategy. I build practical AI systems and translate complex business and societal problems into data-driven solutions across **financial services, analytics, and climate resilience**.
 
-I have nearly three years of experience applying data science and machine learning within the financial sector. My work includes predictive analytics, intelligent automation, conversational AI, and agentic AI systems. I recently graduated from **Academic City University in Ghana with an MSc in Data Science and Analytics**, earning **First Class honours**.
+I have nearly three years of experience applying data science, analytics, and machine learning within the financial sector. I currently work as an **Engagement Analyst at Autochek Africa** and as a part-time **AI Researcher at Youth in AI, Accra, Ghana**. My work spans predictive analytics, conversational AI, intelligent automation, AI agents, and decision-support systems.
+
+I am particularly interested in the intersection of **AI, business strategy, and decision-making**. Beyond building models and AI systems, I am interested in helping organizations identify valuable opportunities for AI, determine where AI can create measurable impact, translate business needs into technical solutions, and adopt AI responsibly.
+
+I recently graduated from **Academic City University in Ghana with an MSc in Data Science and Analytics, earning First Class honours**. My graduate research focused on the development of a **Dealer AI Copilot**, an agentic AI system designed to make business analytics more accessible through natural-language interaction and automated analytical workflows.
 
 <div class="row">
   <div class="col-sm-4 mt-3">
@@ -55,20 +59,24 @@ I have nearly three years of experience applying data science and machine learni
       alt="Academic City University special award"
       class="img-fluid rounded"
     >
-    <p class="caption">Special award for leadership, innovation, integrity, and excellence</p>
+    <p class="caption">Recognition for leadership, innovation, integrity, and excellence</p>
   </div>
 </div>
 
-I currently work as an **Engagement Analyst at Autochek Africa** and as a part-time **AI Researcher at Youth in AI in Accra, Ghana**. At Autochek Africa, I contribute to the development of data-driven and AI-powered solutions that support customer engagement, operational efficiency, and vehicle financing.
+My work is centered on building AI systems that move beyond experimentation and deliver practical value.
 
-One of my notable projects at Autochek Africa is a **Loan Intake Bot**, an intelligent agent designed to support and streamline the loan application process. The system combines conversational automation with predictive analytics to help recommend suitable Autochek financing products to partners and customers.
+At **Autochek Africa**, I have worked on a **Loan Intake Agent** designed to support vehicle-financing applications. The system combines conversational automation, data collection  and decision-support capabilities to help streamline the financing journey for customers and partners.
 
-As an AI Researcher, I have also contributed to the development of an **AI-powered flood alert platform integrated with WhatsApp and SMS**. The platform is designed to make timely flood information more accessible to communities through communication channels that people already use. This work reflects my commitment to applying AI to practical climate resilience and societal challenges.
+In climate technology, I worked on **CiviSenti**, a community flood-intelligence capability within the **National Flood Command Center (NFCC)** platform. I designed and implemented components that transform community flood reports submitted through WhatsApp into structured information, validate reports against available rainfall and flood-risk data, and make them available for monitoring and administrative review. The project reflects my interest in using AI and accessible technology to address real climate and societal challenges.
 
-My research and technical interests include **agentic AI, predictive modelling, natural language processing, responsible AI, AI governance, intelligent automation, and analytics copilots**. I am particularly interested in building AI systems that are reliable, explainable, inclusive, and useful in real-world environments.
+My MSc research, professional work, and applied AI projects have strengthened my interest in **AI consulting and AI strategy**. I am interested in working with organizations to identify high-value AI use cases, evaluate data readiness, design practical AI solutions, improve analytical decision-making, and move from AI experimentation toward responsible implementation.
 
-In addition to my professional work, I am an active member of **Women in Machine Learning and Data Science Accra** and **Divas in AI Ghana**. I also contribute to the Communications Committee of **IndabaX Ghana and the Ghana Data Science Summit**, supporting initiatives that promote AI education, research, and community development.
+My technical and research interests include **agentic AI, predictive modelling, natural language processing, analytics copilots, intelligent automation, responsible AI, AI governance, and applied machine learning**. I am particularly interested in AI systems that are reliable, explainable, inclusive, and useful in real-world environments.
 
-My work has been presented at conferences and technology events, including **AI for Tomorrow**, where I presented an analytics AI copilot built using agentic AI, and **IndabaX Ghana**, where I have delivered technical presentations and tutorials on natural language processing, tokenization, summarization, word embeddings, prompt engineering, and agentic AI.
+My work has been presented at conferences and technology events including **AI for Tomorrow** and **IndabaX Ghana**, where I have presented on analytics copilots, agentic AI, natural language processing, tokenization, summarization, word embeddings, and prompt engineering.
 
-I am committed to advancing responsible and applied AI in Africa. I am open to collaborating with researchers, engineers, institutions, and organizations working on impactful projects in data science, financial technology, climate technology, and responsible AI.
+I am also an active member of **Women in Machine Learning and Data Science Accra** and **Divas in AI Ghana**, and I contribute to the Communications Committee of **IndabaX Ghana and the Ghana Data Science Summit**. These communities have given me opportunities to contribute to technical education, knowledge sharing, and the growth of the AI and data science ecosystem in Ghana.
+
+I am open to opportunities and collaborations across **data science, AI research, AI consulting, AI strategy, financial technology, climate technology, and responsible AI**. I am particularly interested in working with organizations that want to use data and AI to solve meaningful problems and make better decisions.
+
+I am committed to advancing responsible and applied AI in Africa. I am also open to collaborating with researchers, engineers, institutions, and organizations working on impactful projects in data science, financial technology, climate technology, and responsible AI.
