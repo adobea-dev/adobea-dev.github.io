@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
 subtitle: Data Scientist · AI/ML Practitioner · AI Researcher
 
 profile:
