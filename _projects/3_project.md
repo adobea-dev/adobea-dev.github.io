@@ -54,29 +54,29 @@ This creates a more accessible and efficient intake experience while supporting 
 
 ## Agent Tools
 
-### Application Details
+#### Application Details
 
 The application-details tool supported the collection of information required during the loan-application process.
 
 The conversational interface allowed customers to provide information naturally while the underlying workflow handled the structured application data required by the financing process.
 
-### FAQs
+#### FAQs
 
 The FAQ capability allowed customers to ask questions about the financing process and receive relevant answers through the same conversational interface.
 
-### Loan Documents
+#### Loan Documents
 
 The loan-document capability helped customers access the documents required as part of the financing process.
 
-### Loan Simulation
+#### Loan Simulation
 
 The loan-simulation tool allowed customers to explore financing scenarios conversationally.
 
-### Prequalification
+#### Prequalification
 
 The prequalification capability supported the process of determining whether a customer could proceed to the next stage of the financing journey.
 
-### Loan Offer Status
+#### Loan Offer Status
 
 The loan-offer-status capability allowed customers to check the status of an existing loan offer.
 ## Agentic Workflow
