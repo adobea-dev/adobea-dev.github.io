@@ -14,7 +14,7 @@ As part of the NFCC engineering team, I contributed to **CiviSenti**, a communit
 
 ## My Contribution
 
-I developed the **CiviSenti WhatsApp Community Flood Reporting MVP**, focusing on the data ingestion, processing, validation, and reporting workflow.
+I developed the **CiviSenti WhatsApp Community Flood Reporting **, focusing on the data ingestion, processing, validation, and reporting workflow.
 
 My work included building the WhatsApp flood-report processing logic to receive and parse incoming reports, extract relevant information, validate submissions, structure the data, store processed reports, and generate report summaries.
 
