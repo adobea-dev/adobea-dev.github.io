@@ -73,4 +73,4 @@ I have presented my work at events including **AI for Tomorrow** and **IndabaX G
 
 I am a member of **Women in Machine Learning and Data Science Accra** and **Divas in AI Ghana**, and contribute to the **Communications Committee of IndabaX Ghana and the Ghana Data Science Summit**.
 
-I am interested in opportunities where I can apply data science and AI to meaningful business and societal problems, particularly across **financial services, analytics, and climate resilience**.
+I am interested in opportunities where I can apply data science and AI to meaningful business and societal problems, particularly across **financial services, analytics, and climate resilience as well**.
