@@ -3,8 +3,10 @@ title: "n8n AI Request Routing Assistant"
 collection: projects
 permalink: /projects/n8n-ai-request-routing-assistant/
 category: work
-excerpt: "AI-powered workflow automation system for request intake, classification, routing, logging, and email confirmation."
+excerpt: "An AI-powered n8n workflow that captures requests, classifies them with OpenAI, logs them in Google Sheets, and sends automated Gmail confirmations."
+description: "An AI-powered n8n workflow that captures requests, classifies them with OpenAI, logs them in Google Sheets, and sends automated Gmail confirmations."
 ---
+
 
 ## n8n AI Request Routing Assistant
 
