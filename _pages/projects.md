@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected projects in agentic AI, applied machine learning, financial technology, and climate resilience.
+description: "Selected projects in agentic AI, workflow automation, applied machine learning, financial technology, and climate resilience."
 nav: true
 nav_order: 3
 
