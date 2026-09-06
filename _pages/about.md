@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a **Data Scientist focused on statistical modelling, machine learning, predictive analytics, and applied AI**. I build practical data-driven systems that help organizations solve complex problems and make better decisions across **financial services, analytics, and climate resilience**.
+I am **Regina Adobea Essien**, though I prefer to be called **Adobea**. I am a **Data Scientist focused on statistical modelling, machine learning, predictive analytics,applied AI, AI automation and Agent development**. I build practical data-driven systems that help organizations solve complex problems and make better decisions across **financial services, analytics, and climate resilience**.
 
 I have **3+ years of experience** applying data science, analytics, and machine learning in the financial sector. I currently work as an **Engagement Analyst at Autochek Africa**, where I work on data-driven and AI-powered solutions, and as a part-time **AI Researcher at Youth in AI, Accra**.
 
